@@ -9,4 +9,4 @@ This is a Chrome Extension that displays Keepa data (Buy Box, FBA price, Referra
 4. Visit an Amazon product page
 
 ## Example
-![alt text](image.png)
+![alt text](Profit & Roi Calc/image.png)
