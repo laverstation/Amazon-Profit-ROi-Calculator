@@ -1,0 +1,34 @@
+#keepa-extension-panel {
+    background: #fff;
+    border: 1px solid #aaa;
+    padding: 12px;
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 100%;
+    max-width: 350px;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+
+
+#keepa-extension-panel input {
+    width: 100%;
+    padding: 4px;
+    margin-top: 4px;
+    margin-bottom: 8px;
+}
+
+#keepa-extension-panel button {
+    width: 100%;
+    padding: 6px;
+    background: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#keepa-extension-panel button:hover {
+    background: #45a049;
+}
