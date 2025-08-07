@@ -7,3 +7,6 @@ This is a Chrome Extension that displays Keepa data (Buy Box, FBA price, Referra
 2. Open the folder -> go to background.js and replace your API key -> Save
 3. Open Chrome → Extensions → Load unpacked → Select this folder
 4. Visit an Amazon product page
+
+## Example
+![alt text](image.png)
